@@ -9700,54 +9700,60 @@ HSSY:
   bioguide: M001198
   start_date: '2019-01-23'
   source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
-- name: Neal P. Dunn
-  party: minority
-  rank: 8
-  bioguide: D000628
-  start_date: '2019-01-23'
-  source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
 - name: Ralph Norman
   party: minority
-  rank: 9
+  rank: 8
   bioguide: N000190
   start_date: '2019-01-23'
   source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
 - name: Michael Cloud
   party: minority
-  rank: 10
+  rank: 9
   bioguide: C001115
   start_date: '2019-01-23'
   source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
 - name: Troy Balderson
   party: minority
-  rank: 11
+  rank: 10
   bioguide: B001306
   start_date: '2019-01-23'
   source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
 - name: Pete Olson
   party: minority
-  rank: 12
+  rank: 11
   bioguide: O000168
   start_date: '2019-01-23'
   source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
 - name: Anthony Gonzalez
   party: minority
-  rank: 13
+  rank: 12
   bioguide: G000588
   start_date: '2019-01-23'
   source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
 - name: Michael Waltz
   party: minority
-  rank: 14
+  rank: 13
   bioguide: W000823
   start_date: '2019-01-23'
   source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
 - name: James Baird
   party: minority
-  rank: 15
+  rank: 14
   bioguide: B001307
   start_date: '2019-01-23'
   source: https://www.congress.gov/bill/116th-congress/house-resolution/68/text
+- name: Jaime Herrera Beutler
+  party: minority
+  rank: 15
+  bioguide: H001056
+  start_date: '2019-03-28'
+  source: https://www.congress.gov/bill/116th-congress/house-resolution/264/text
+- name: Jenniffer González-Colón
+  party: minority
+  rank: 16
+  bioguide: G000582
+  start_date: '2019-03-28'
+  source: https://www.congress.gov/bill/116th-congress/house-resolution/264/text
 - name: Eddie Bernice Johnson
   party: majority
   rank: 1
